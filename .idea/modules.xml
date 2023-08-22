@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/May_Python.iml" filepath="$PROJECT_DIR$/.idea/May_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FebBatch/Oops_concepts/.idea/Oops_concepts.iml" filepath="$PROJECT_DIR$/../FebBatch/Oops_concepts/.idea/Oops_concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NovemberBatch/decorators/.idea/decorators.iml" filepath="$PROJECT_DIR$/../NovemberBatch/decorators/.idea/decorators.iml" />
+    </modules>
+  </component>
+</project>

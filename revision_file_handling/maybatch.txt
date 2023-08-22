@@ -1,0 +1,5 @@
+1 Hi dears  welcome to file handling sessionWhat is
+2 a+ mode. The a+ mode in Python is used to open the
+3 file in a read-write mode without truncating the file.
+4 When the file is opened in a+ mode it allows us to write new
+5 data at the end of the file without affecting the existing data in the file.
